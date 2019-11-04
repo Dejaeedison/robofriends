@@ -2,8 +2,6 @@ import React from 'react';
 import Card from "./Card";
 
 function CardList ( { robots }) {
-	if (true) {
-		throw new Error('NOOOOO!');
 	}
 	return(
 		<div>
